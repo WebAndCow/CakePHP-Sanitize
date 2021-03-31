@@ -1,0 +1,14 @@
+{
+    "name": "webandcow/cakephp-sanitize",
+    "description": "Behavior Sanitize",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "SanitizeBehavior\\": "src"
+        }
+    }
+}
