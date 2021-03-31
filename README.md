@@ -47,9 +47,9 @@ Vous pouvez définir les méthodes utilisées par type de champ. Dans l'exemple 
 
 # Méthodes actuellement disponible
 Voici la liste des méthodes actuelles du behavior : 
-⋅⋅* `stripHtml` qui retire l'ensemble des balises HTML du contenu du champ
-⋅⋅* `stripScript` qui retire les balises `<img>`, `<script>`, `<style>`, `<link>` du contenu du champ
+* `stripHtml` qui retire l'ensemble des balises HTML du contenu du champ
+* `stripScript` qui retire les balises `<img>`, `<script>`, `<style>`, `<link>` du contenu du champ
 
 # A venir
-⋅⋅* Test unitaire
-⋅⋅* Intégration de nouvelle méthode
+* Test unitaire
+* Intégration de nouvelle méthode
