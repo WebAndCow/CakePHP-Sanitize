@@ -9,6 +9,7 @@
     ],
     "license": "MIT",
     "require": {
+        "composer/installers": "*",
         "php": ">=5.6"
     },
     "extra": {
